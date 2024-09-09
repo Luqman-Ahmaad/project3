@@ -1,1 +1,1 @@
-// this is the file for js code
+// this is the file for js code for label
